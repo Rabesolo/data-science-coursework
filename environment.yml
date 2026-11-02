@@ -1,0 +1,10 @@
+name: ds-course
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyter
+  - pandas
+  - numpy
+  - python=3.12
+prefix: C:\Users\KEVIN\anaconda3\envs\ds-course
